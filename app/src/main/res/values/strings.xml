@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Informed</string>
+    <string name="title">Safe transit for overloaded trucks in Haryana: RTA staffer arrested</string>
+    <string name="subheading">The State Vigilance Bureau (SVB) has claimed to have busted a racket involving transport officials and middlemen under which overloaded trucks were allowed to pass through different districts of</string>
+    <string name="search">Search</string>
+    <string name="informed">Informed</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
