@@ -22,7 +22,7 @@ This Project is based on Newsapi In which user can browse different kind of news
 
 # Screenshots From this project
 ## You can Install and test VoiceNotes Android App from below 👇
-[![Informed News](https://img.shields.io/badge/Informed-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/AzadTom/BrowseNews/blob/master/app/release/app-release.apk)
+[![Informed News](https://img.shields.io/badge/Informed-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/AzadTom/BrowseNews/raw/master/app/release/app-release.apk)
 
 
 <p align="center">
